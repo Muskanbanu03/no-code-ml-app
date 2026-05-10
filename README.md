@@ -30,4 +30,4 @@ streamlit run ml_app.py
 - Seaborn
 
 ## Author
-Muskanbanu03
+Muskan banu
